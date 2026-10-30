@@ -121,7 +121,6 @@ Durante a abertura são informados dados como:
 - prioridade;
 - descrição detalhada.
 
-![Nova Solicitação](images/04-nova-solicitacao.jpeg)
 
 ---
 
@@ -138,7 +137,7 @@ Essa abordagem contribui para:
 - possibilidade de restauração;
 - segurança operacional.
 
-![Lixeira de Solicitações](images/05-lixeira.jpeg)
+
 
 ---
 
