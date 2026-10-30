@@ -68,7 +68,7 @@ A solução foi estruturada inicialmente para os departamentos:
 
 O SmartFlow AI possui acesso autenticado, impedindo que funcionalidades internas sejam utilizadas por usuários não autorizados.
 
-![Tela de Login](images/01-login.jpeg)
+[![Tela de Login](images/01-login.jpeg)](https://github.com/jessicafontesTI/Smartflow-IA-portfolio/blob/main/images/01-login.png.jpeg)
 
 ---
 
