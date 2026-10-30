@@ -68,7 +68,6 @@ A solução foi estruturada inicialmente para os departamentos:
 
 O SmartFlow AI possui acesso autenticado, impedindo que funcionalidades internas sejam utilizadas por usuários não autorizados.
 
-[![Tela de Login](images/01-login.jpeg)](https://github.com/jessicafontesTI/Smartflow-IA-portfolio/blob/main/images/01-login.png.jpeg)
 
 ---
 
@@ -87,7 +86,6 @@ O dashboard apresenta uma visão consolidada das solicitações registradas no s
 - evolução temporal;
 - demandas prioritárias pendentes.
 
-![Dashboard Gerencial](images/02-dashboard.jpeg)
 
 ---
 
@@ -106,7 +104,7 @@ As demandas podem ser consultadas por:
 
 A organização da fila considera a prioridade das solicitações e a ordem de abertura.
 
-![Fila de Solicitações](images/03-solicitacoes.jpeg)
+
 
 ---
 
